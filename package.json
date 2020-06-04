@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://alexlefk.github.io/simplefolio/"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Alexandros Lefkidis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://alexlefk.github.io/simplefolio/"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://alexlefk.github.io/simplefolio/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
